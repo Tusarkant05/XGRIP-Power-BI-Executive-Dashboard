@@ -6,4 +6,7 @@
 ![](https://github.com/Tusarkant05/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20version%20Xgrip%20dashboard%20own.png)
 
 ## Product analysis Dashboard
+![](https://github.com/Tusarkant05/XGRIP-Power-BI-Executive-Dashboard/blob/main/Xgrip%20product%20dashboard%20own.png)
+
+## Map Analysis Dashboard
 ![]()
