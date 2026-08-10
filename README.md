@@ -17,10 +17,10 @@ Create an interactive, user-friendly dashboard for XGRIP, a company specializing
 ## Action
 
 ### Key Features
-* Data Integration: Unified data from PostgreSQL, MySQL, Excel, CSV, and PDF formats.
-* Currency Standardization: Converted diverse currencies to USD for consistency across regions.
-* Profitability Analysis: Incorporated COGS, discounts, and quantities for accurate profit metrics.
-* Interactive Dashboards: Added slicers, custom panes, and drill through buttons for in-depth analysis.
-* Scheduled Data Refresh: Enabled seamless updates through Power BI Gateway.
-* Advanced DAX Calculations: Created KPIs for revenue, profit margin, and YoY sales growth.
-* Row-Level Security (RLS): Secured sensitive data based on user roles.
+### * Data Integration:- Unified data from PostgreSQL, MySQL, Excel, CSV, and PDF formats.
+### * Currency Standardization- Converted diverse currencies to USD for consistency across regions.
+### * Profitability Analysis:- Incorporated COGS, discounts, and quantities for accurate profit metrics.
+### * Interactive Dashboards:- Added slicers, custom panes, and drill through buttons for in-depth analysis.
+### * Scheduled Data Refresh:- Enabled seamless updates through Power BI Gateway.
+### * Advanced DAX Calculations:- Created KPIs for revenue, profit margin, and YoY sales growth.
+### * Row-Level Security (RLS):- Secured sensitive data based on user roles.
