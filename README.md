@@ -11,6 +11,9 @@
 ## Map Analysis Dashboard
 ![](https://github.com/Tusarkant05/XGRIP-Power-BI-Executive-Dashboard/blob/main/Xgrip%20Map%20cht.png)
 
+## Xgrip Model View
+![]()
+
 ## objective
 Create an interactive, user-friendly dashboard for XGRIP, a company specializing in mobile phone accessories. The dashboard integrates multi-source data, standardizes currencies, and provides detailed insights into sales, profits, product performance, and returns. It aims to streamline data analysis, helping stakeholders make informed business decisions.
 
@@ -58,7 +61,11 @@ The dashboard provides clear and actionable insights into sales, profits, and pr
 
 Project dataset created by Tusarkant05; it is a simulated company for learning purposes.
 
+## Contact Me
 
+📄 **[Resume](#)**  
+📧 **[Email](jtusarkant@gmail.com)**  
+📞 **Phone**: +91-7684-028977  
 
 
 
