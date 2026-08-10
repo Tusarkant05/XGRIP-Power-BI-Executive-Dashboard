@@ -34,12 +34,12 @@ Create an interactive, user-friendly dashboard for XGRIP, a company specializing
 * Gateway: Power BI Gateway for scheduled refresh.
 
 ### Execution Steps
-1- Data Integration: Connected to various sources (PostgreSQL, MySQL, Excel, CSV, and PDFs) for a comprehensive dataset.
-2- Data Standardization: Converted local currencies to USD using exchange rates for consistent reporting.
-3- Data Modeling: Established relationships between tables, merged product data, and calculated profitability.
-4- Dashboard Design: Developed interactive dashboards with multiple pages and visualizations like donut charts, bar charts, and maps.
-5- Advanced Calculations: Created dynamic DAX measures for KPIs such as revenue, profit, and YoY growth.
-6- Automation & Security: Implemented automated data refresh and configured RLS for secure data access.
+*- Data Integration: Connected to various sources (PostgreSQL, MySQL, Excel, CSV, and PDFs) for a comprehensive dataset.
+*- Data Standardization: Converted local currencies to USD using exchange rates for consistent reporting.
+*- Data Modeling: Established relationships between tables, merged product data, and calculated profitability.
+*- Dashboard Design: Developed interactive dashboards with multiple pages and visualizations like donut charts, bar charts, and maps.
+*- Advanced Calculations: Created dynamic DAX measures for KPIs such as revenue, profit, and YoY growth.
+*- Automation & Security: Implemented automated data refresh and configured RLS for secure data access.
 
 ### Impact
 The dashboard provides clear and actionable insights into sales, profits, and product performance, enabling the XGRIP team to make data-driven decisions. It offers users a visually appealing interface with interactive features and seamless data updates, significantly improving the efficiency of business reporting and analysis.
